@@ -1,5 +1,5 @@
 {
-  "x": "http://serverku.lynzzofficial.com:2284",
-  "ws": "ws://serverku.lynzzofficial.com:2284", 
-  "rat": "http://serverku.lynzzofficial.com:2284"
+  "x": "http://cloud.nubeszxenn.my.id:3079",
+  "ws": "ws://http://cloud.nubeszxenn.my.id:3079", 
+  "rat": "http://cloud.nubeszxenn.my.id:3079"
 }
