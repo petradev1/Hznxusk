@@ -1,5 +1,5 @@
 {
-  "x": "http://cloud.nubeszxenn.my.id:3079",
-  "ws": "ws://http://cloud.nubeszxenn.my.id:3079", 
-  "rat": "http://cloud.nubeszxenn.my.id:3079"
+  "x": "http://starlightapps.zyrostore.id:3000",
+  "ws": "ws://http://starlightapps.zyrostore.id:3000", 
+  "rat": "http://starlightapps.zyrostore.id:3000"
 }
