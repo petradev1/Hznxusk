@@ -1,5 +1,5 @@
 {
-  "x": "http://starlightapps.zyrostore.id:3000",
-  "ws": "ws://starlightapps.zyrostore.id:3000", 
-  "rat": "http://starlightapps.zyrostore.id:3000"
+  "x": "http://cp.zyrostore.id/:3584",
+  "ws": "ws://cp.zyrostore.id/:3584", 
+  "rat": "http://cp.zyrostore.id/:3584"
 }
